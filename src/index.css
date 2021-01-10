@@ -13,8 +13,6 @@ code {
 }
 
 h1{
-  background-color: thistle;
-  color:rebeccapurple;
+  color:rgb(210, 156, 247);
   text-decoration: underline;
-  text-shadow: 2px 2px 5px rgb(17, 17, 204);
 }
