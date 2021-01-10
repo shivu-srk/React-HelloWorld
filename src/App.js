@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import {useState} from 'react';
 
-function Todo({ todo, index, completeTodo, removeTodo }) {
+function Todo({ todo, index, removeTodo }) {
   return (
     <div className="todo">
       {todo.text}
